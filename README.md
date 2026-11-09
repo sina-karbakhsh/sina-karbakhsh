@@ -1,24 +1,26 @@
 # Sina Karbakhsh Ravari
-M.Sc. candidate in Aerospace Engineering (Aerodynamics), Shiraz University, Iran.
 
+M.Sc. candidate in Aerospace Engineering (Aerodynamics), Shiraz University, Iran.
 Research interests: computational fluid dynamics, wind-turbine aerodynamics,
 turbulent particle-laden flows, and machine learning for fluid mechanics.
 
-ORCID [0009-0003-6017-8628](https://orcid.org/0009-0003-6017-8628)
+ORCID [0009-0003-6017-8628](https://orcid.org/0009-0003-6017-8628) ·
 sinakarbakhsh@hafez.shirazu.ac.ir
 
-
 ## M.Sc. thesis
+
 Numerical investigation of the local aerodynamic coefficients of a floating
 offshore vertical-axis wind turbine and development of a machine-learning
 surrogate model for combined platform and blade motions (expected 2027).
 Supervisor: Prof. Reza Kamali; advisor: Dr. Ebrahim Ghahramani.
 
 ## Research software
+
 | Repository | Description |
 | --- | --- |
 | [crw-dehbi-2008-fluent-udf](https://github.com/sina-karbakhsh/crw-dehbi-2008-fluent-udf) | ANSYS Fluent UDF (C) implementing the CRW–Langevin particle dispersion model of Dehbi (2008) for aerosol deposition in a 90° pipe bend, with a technical report and verification tools. |
 
 ## Tools
+
 ANSYS Fluent (C UDFs) and ANSYS Meshing · Python · MATLAB · C ·
 parallel CFD on the Simorgh and Ferdowsi HPC clusters
