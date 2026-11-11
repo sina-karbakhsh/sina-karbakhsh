@@ -31,7 +31,7 @@ test of the random-number generator.
 
 ## Experience and skills
 
-- CFD engineer (part-time), PIRANO Company, Kerman, 2024–2026: CFD analyses
+- CFD engineer (part-time), PIRANO Company, Kerman, 2023–2026: CFD analyses
   for wind-energy projects in ANSYS Fluent
 - ANSYS Fluent (Reynolds stress model, discrete phase model, transient
   moving-mesh simulations, C user-defined functions), ANSYS Meshing
